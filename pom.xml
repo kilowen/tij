@@ -7,5 +7,6 @@
   <modules>
   	<module>tij-EnumeratedTypes</module>
   	<module>tij-MindView</module>
+  	<module>tij-EveryObjects</module>
   </modules>
 </project>
