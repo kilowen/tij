@@ -8,5 +8,6 @@
   	<module>tij-EnumeratedTypes</module>
   	<module>tij-MindView</module>
   	<module>tij-EveryObjects</module>
+  	<module>tij-IO</module>
   </modules>
 </project>
