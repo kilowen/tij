@@ -9,5 +9,6 @@
   	<module>tij-MindView</module>
   	<module>tij-EveryObjects</module>
   	<module>tij-IO</module>
+  	<module>tij-HoldingYourObjects</module>
   </modules>
 </project>
