@@ -5,5 +5,12 @@
     <artifactId>tij</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>tij-EveryObjects</artifactId>
+  <artifactId>tij-19EnumeratedTypes</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.chang</groupId>
+  		<artifactId>tij-MindView</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>

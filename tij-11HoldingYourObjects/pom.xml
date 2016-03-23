@@ -5,5 +5,5 @@
     <artifactId>tij</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>tij-HoldingYourObjects</artifactId>
+  <artifactId>tij-11HoldingYourObjects</artifactId>
 </project>

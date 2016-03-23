@@ -5,10 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>tij-EnumeratedTypes</module>
   	<module>tij-MindView</module>
-  	<module>tij-EveryObjects</module>
-  	<module>tij-IO</module>
-  	<module>tij-HoldingYourObjects</module>
+  	<module>tij-02EveryObjects</module>
+  	<module>tij-11HoldingYourObjects</module>
+  	<module>tij-17ContainersInDepth</module>
+  	<module>tij-18IO</module>
+  	<module>tij-19EnumeratedTypes</module>
   </modules>
 </project>
