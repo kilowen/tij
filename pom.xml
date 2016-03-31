@@ -11,5 +11,6 @@
   	<module>tij-17ContainersInDepth</module>
   	<module>tij-18IO</module>
   	<module>tij-19EnumeratedTypes</module>
+  	<module>tij-08Polymorphism</module>
   </modules>
 </project>
