@@ -12,6 +12,5 @@
   	<module>tij-18IO</module>
   	<module>tij-19EnumeratedTypes</module>
   	<module>tij-08Polymorphism</module>
-  	<module>tij-21Concurrency</module>
   </modules>
 </project>
