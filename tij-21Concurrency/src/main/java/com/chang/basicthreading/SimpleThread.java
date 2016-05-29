@@ -1,4 +1,4 @@
-package com.chang.cc;
+package com.chang.basicthreading;
 
 public class SimpleThread extends Thread {
 	private int countDown = 5;

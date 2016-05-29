@@ -1,4 +1,4 @@
-package com.chang.cc;
+package com.chang.basicthreading;
 
 import java.util.concurrent.TimeUnit;
 import static net.mindview.util.Print.*;

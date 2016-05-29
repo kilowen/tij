@@ -5,4 +5,4 @@
  * @author Chang
  *
  */
-package com.chang.cc;
+package com.chang.sharingresources;
